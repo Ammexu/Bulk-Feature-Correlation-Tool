@@ -50,7 +50,7 @@ python bulk-corr-tool.py --input "data.csv" --target "A"
 ```
 Notes: 
 - if this does not work, replace 'python' with 'python3' for MacOS and Linux
-- Replace 'data.csv' and 'A' with your desired csv file and target.
+- Replace 'data.csv' and 'A' with your desired csv file pathname and target.
 
 Wait for the "Finished!" text. This may take some time depending on the file size.
 
